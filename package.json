@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^3.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "vue-template-compiler": "^2.6.10"
   }
 }
